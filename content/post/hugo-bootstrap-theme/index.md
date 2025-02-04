@@ -16,16 +16,16 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- AI-Powered Flashcards
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Convert your notes into AI-generated flashcards for fast and effective learning.
 
-- ⚡ Fast by default
+- Adaptive Quizzes
 
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
+  SmartStudy creates personalized quizzes that adjust to your strengths and weaknesses.
 
-- 📈 SEO-ready
+- Distraction-Free Mode
 
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
+  Block social media and notifications to maintain complete focus during study sessions.
 
 Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
