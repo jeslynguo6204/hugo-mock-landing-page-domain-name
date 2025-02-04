@@ -1,6 +1,0 @@
-[submodule "themes/hugo-bootstrap-theme"]
-	path = themes/hugo-bootstrap-theme
-	url = https://github.com/filipecarneiro/hugo-bootstrap-theme
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
