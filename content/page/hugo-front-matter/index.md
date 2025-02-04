@@ -4,7 +4,7 @@ description: "Hugo allows you to add front matter in yaml, toml, or json to your
 summary: "Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables."
 draft: true
 tags: ["Featured"]
-images: ["hugo-front-matter.jpg","hugo-logo.svg"]
+images: ["hugo-front-matter.jpg","images/logo.png"]
 keywords: ["Hugo Front Matter","hugo","front matter","draft post","front matter variables"]
 aliases:
   - draft-post

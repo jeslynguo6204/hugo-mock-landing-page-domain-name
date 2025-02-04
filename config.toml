@@ -47,3 +47,6 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[params]
+mainMenuLogo = "images/logo.png"
