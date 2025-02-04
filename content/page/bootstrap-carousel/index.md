@@ -13,9 +13,7 @@ A slideshow component for cycling through elementsâ€”images or slides of text â€
 
 <br>
 
-<div class="w-50 mx-auto">
-    {{< carousel imagesPattern="carousel/*.png" aspectRatio="3/2" crossFade=false withIndicators=true withControls=true >}}
-</div>
+
 
 <br>
 
