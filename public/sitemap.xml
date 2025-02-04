@@ -2,161 +2,161 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/authors/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/categories/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/categories/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/tags/hugo/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/hugo/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/categories/hugo-release-notes/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/categories/hugo-release-notes/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/hugo-v0-119/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/hugo-v0-119/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/</loc>
     <lastmod>2025-02-04T15:25:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/tags/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/bootstrap/</loc>
     <lastmod>2025-02-04T14:10:12-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/bootstrap-5-3-0/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/bootstrap-5-3-0/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/authors/mark-otto/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/mark-otto/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/categories/the-bootstrap-blog/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/categories/the-bootstrap-blog/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/hugo-v0-100/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/hugo-v0-100/</loc>
     <lastmod>2025-02-04T15:00:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/tags/featured/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/featured/</loc>
     <lastmod>2025-02-04T14:34:45-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</loc>
     <lastmod>2025-02-04T14:10:12-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/hugo-bootstrap-theme/</loc>
     <lastmod>2025-02-04T14:10:12-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/hugo-v0-99/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/hugo-v0-99/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/about/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/about/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/bootstrap-carousel/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/page/bootstrap-carousel/</loc>
     <lastmod>2025-02-04T14:34:45-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/bootstrap-components/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/page/bootstrap-components/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/code-of-conduct/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/code-of-conduct/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/contact/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/contact/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/page/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/tags/index/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/index/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/markdown-cheat-sheet/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/page/markdown-cheat-sheet/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/tags/privacy/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/privacy/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/privacy-policy/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/privacy-policy/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/security-best-practices/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/page/security-best-practices/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/series/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jeslynguo6204.github.io/hugo-mock-landing-page/about.pt/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/about.pt/</loc>
     <lastmod>2025-02-04T13:28:31-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
