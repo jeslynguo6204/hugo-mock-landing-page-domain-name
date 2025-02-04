@@ -1,0 +1,78 @@
+.home {
+    --bd-primary: #008080;  /* Teal */
+    --bd-secondary: #004d40; /* Darker teal */
+    --bd-accent: #ffe484; /* Accent */
+    --bd-primary-rgb: 0,128,128; /* Teal in RGB */
+    --bd-secondary-rgb: 0,77,64; /* Darker teal */
+    --bd-accent-rgb: 255,228,132;
+
+    .bd-masthead {
+        padding: 1rem 0;
+        background-image: linear-gradient(
+            180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%
+        ),
+        radial-gradient(ellipse at top left, rgba(var(--bd-primary-rgb), 0.5), transparent 50%),
+        radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),
+        radial-gradient(ellipse at center right, rgba(var(--bd-secondary-rgb), 0.5), transparent 50%),
+        radial-gradient(ellipse at center left, rgba(var(--bd-secondary-rgb), 0.5), transparent 50%);
+    }
+
+    .btn-bd-primary {
+        --bs-btn-font-weight: 600;
+        --bs-btn-color: var(--bs-white);
+        --bs-btn-bg: var(--bd-primary);
+        --bs-btn-border-color: var(--bd-primary);
+        --bs-btn-border-radius: .5rem;
+        --bs-btn-hover-color: var(--bs-white);
+        --bs-btn-hover-bg: var(--bd-secondary);
+        --bs-btn-hover-border-color: var(--bd-secondary);
+        --bs-btn-focus-shadow-rgb: var(--bd-primary-rgb);
+        --bs-btn-active-color: var(--bs-btn-hover-color);
+        --bs-btn-active-bg: var(--bd-secondary);
+        --bs-btn-active-border-color: var(--bd-secondary);
+    }
+}
+
+/* 🔹 Solid Colored Navbar */
+.navbar {
+    padding: 0.5rem 0; /* Reduce padding */
+    margin-bottom: 0px; /* Remove any extra spacing */
+    background-color: #007B8F; /* Adjust the navbar color if needed */
+    background-image: none; /* Remove gradient if not needed */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Keep or adjust shadow */
+}
+
+/* Navbar Text Color */
+.navbar .nav-link, .navbar-brand {
+    color: #ffffff !important; /* White text */
+}
+
+/* Navbar Hover Effect */
+.navbar .nav-link:hover {
+    color: #ffe484 !important; /* Accent color on hover */
+}
+
+/* Feature Titles */
+.text-violet {
+    color: #008080 !important; /* Change previous violet color */
+}
+
+/* Feature Cards */
+.list {
+    .card {
+        transition: transform 0.2s ease-in-out;
+
+        &:hover {
+            transform: scale(1.01);
+        }
+    }
+}
+
+/* Navbar Brand Hover */
+.navbar-brand {
+    transition: transform 0.2s ease-in-out;
+
+    &:hover {
+        transform: rotate(-2deg) scale(1.1);
+    }
+}
