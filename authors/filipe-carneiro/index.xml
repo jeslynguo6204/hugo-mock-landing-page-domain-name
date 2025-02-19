@@ -1,33 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Filipe Carneiro on StudySmart</title>
-    <link>https://jeslynguo6204.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</link>
-    <description>Recent content in Filipe Carneiro on StudySmart</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Jeslyn Guo</copyright>
-    <atom:link href="https://jeslynguo6204.github.io/hugo-mock-landing-page/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo Bootstrap Theme alpha</title>
-      <link>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</link>
-      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;AI-Powered Flashcards&lt;/p&gt;&#xA;&lt;p&gt;Convert your notes into AI-generated flashcards for fast and effective learning.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Adaptive Quizzes&lt;/p&gt;&#xA;&lt;p&gt;SmartStudy creates personalized quizzes that adjust to your strengths and weaknesses.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Distraction-Free Mode&lt;/p&gt;&#xA;&lt;p&gt;Block social media and notifications to maintain complete focus during study sessions.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Check the &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt; for the release notes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Docs</title>
-      <link>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeslynguo6204.github.io/hugo-mock-landing-page/page/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Posts</title>
-      <link>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeslynguo6204.github.io/hugo-mock-landing-page/post/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Filipe Carneiro on StudySmart</title><link>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/authors/filipe-carneiro/</link><description>Recent content in Filipe Carneiro on StudySmart</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><atom:link href="https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Bootstrap Theme alpha</title><link>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/post/hugo-bootstrap-theme/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/post/hugo-bootstrap-theme/</guid><description>&lt;blockquote>
+&lt;p>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&lt;/p>&lt;/blockquote>
+&lt;p>Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>AI-Powered Flashcards&lt;/p>
+&lt;p>Convert your notes into AI-generated flashcards for fast and effective learning.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Adaptive Quizzes&lt;/p>
+&lt;p>SmartStudy creates personalized quizzes that adjust to your strengths and weaknesses.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Distraction-Free Mode&lt;/p>
+&lt;p>Block social media and notifications to maintain complete focus during study sessions.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Check the &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme" target="_blank" rel="noopener">GitHub repository&lt;/a> for the release notes.&lt;/p></description></item><item><title>Docs</title><link>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/page/</guid><description/></item><item><title>Posts</title><link>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jeslynguo6204.github.io/hugo-mock-landing-page-autodeployed/post/</guid><description/></item></channel></rss>
