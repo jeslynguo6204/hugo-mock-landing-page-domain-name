@@ -22,20 +22,6 @@ The automation is handled by the following workflow file: .github/workflows/gh-p
 - Hugo version **0.144.1** is used in the workflow.
 - GitHub Pages settings must have `gh-pages` as the deployment branch.
 
-✅ Recent Update: Scraping Latest Multimedia Story
-📌 Changes Made
-Updated Target Page:
-
-Previously, the scraper extracted the main front-page headline from the homepage.
-Now, it navigates to https://www.thedp.com/multimedia to find the most recent photo gallery or video story.
-Modified Scraper Logic:
-
-The scraper searches for a <div> with the class "featured-media", which contains the latest multimedia article.
-Inside this section, it extracts the <a> tag with the headline text.
-Added Robustness & Compliance:
-
-Introduced a User-Agent header to prevent blocks by the website.
-Ensured robots.txt compliance by implementing a 10-second delay between requests.
 
 This project is part of **CIS 3500 - Software Engineering** at the University of Pennsylvania.
 
